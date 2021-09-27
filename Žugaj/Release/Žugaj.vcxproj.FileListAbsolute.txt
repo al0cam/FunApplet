@@ -1,0 +1,3 @@
+C:\Users\bucom\source\repos\Žugaj\Žugaj\Release\Žugaj.MyForm.resources
+C:\Users\bucom\source\repos\Žugaj\Žugaj\Release\Žugaj.vcxproj.GenerateResource.cache
+C:\Users\bucom\source\repos\Žugaj\Žugaj\Release\Žugaj.vcxprojAssemblyReference.cache
